@@ -15,6 +15,7 @@ setup(
             'marks = marks.marks',
         ]
     },
+    test_suite='tests',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
